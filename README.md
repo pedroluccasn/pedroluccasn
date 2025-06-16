@@ -1,39 +1,34 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Olá, eu sou Pedro Luccas.
 
-###
+Sou um analista de dados em início de carreira, com foco em transformar dados em informações relevantes para apoiar decisões estratégicas. Tenho me dedicado ao desenvolvimento de projetos práticos, aprimorando minhas habilidades técnicas e analíticas.
 
-<p align="left">My name is Pedro Luccas </p>
+## 🧩 Sobre mim
 
-###
+- 🎓 Formação: Ciência da Computação (em andamento).
+- 📚 Atualmente estudando: Python, SQL, Power BI e Estatística  
+- 💼 Em busca de oportunidades na área de dados
 
-<h2 align="left">About me</h2>
+## 💻 Habilidades Técnicas
 
-###
+- **Linguagens**: Python (pandas, numpy)  
+- **Bancos de dados**: SQL (PostgreSQL, MySQL, NoSql)  
+- **Visualização de dados**: Power BI, Excel  
+- **Ferramentas**: Git, GitHub
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+## 📁 Projetos
 
-###
+| Projeto | Descrição | Ferramentas |
+|--------|-----------|-------------|
+| [Análise IBGE](#) | Estudo exploratório de dados populacionais brasileiros | Python, pandas, matplotlib |
+| [Dashboard de Vendas](#) | Construção de dashboard para acompanhamento de KPIs | Power BI |
+| [Consultas SQL](#) | Consultas em base de e-commerce simulada | SQL |
 
-<h2 align="left">I code with</h2>
+## 📫 Contato
 
-###
+- Email: pedroluccas.dev@gmail.com
+- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- Portfólio (opcional): [seusite.com](https://seusite.com)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+---
 
-###
+> *“Dados são o novo petróleo — meu objetivo é refiná-los.”*
