@@ -26,7 +26,7 @@ Sou um analista de dados em início de carreira, com foco em transformar dados e
 ## 📫 Contato
 
 - Email: pedroluccas.dev@gmail.com
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav  
 - Portfólio (opcional): [seusite.com](https://seusite.com)
 
 ---
