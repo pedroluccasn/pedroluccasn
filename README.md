@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Pedro Luccas.
+# 👋 Opa, eu sou Pedro Luccas.
 
 Sou um analista de dados em início de carreira, com foco em transformar dados em informações relevantes para apoiar decisões estratégicas. Tenho me dedicado ao desenvolvimento de projetos práticos, aprimorando minhas habilidades técnicas e analíticas.
 
